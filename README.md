@@ -1,16 +1,31 @@
-## Hi there 👋
+# Selam! Ben KodlaBirader 👨‍💻
 
-<!--
-**kodlabirader/kodlabirader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+30 yaşımdan sonra "Oyun yaparım ya ben!" deyip oyun geliştirme dünyasına dalan biriyim.  
+Unity’de kare piksel kovalıyorum, kod yazarken kahvemi soğutuyorum.  
+Bu repo'da da yolculuğumu belgeliyorum, tıpkı günlüğe yazar gibi.
 
-Here are some ideas to get you started:
+## Şu anda neler yapıyorum?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Unity ile 2D/3D mini projeler geliştiriyorum.  
+- ✍️ [kodlabirader.com](https://kodlabirader.com) üzerinden öğrendiklerimi yazıyorum.  
+- 📹 YouTube Shorts ve Instagram’da süreç belgeseli tarzı içerikler paylaşıyorum.  
+- ⌨️ GitHub’da hem öğreniyor hem öğretiyorum (bazen yanlış olsa da...)
+
+## Hedefim ne?
+
+Kendi oyunumu geliştirmek ve bu süreci şeffafça paylaşmak,  
+bir yandan da “Yalnız değilmişim ya” dedirtmek isteyenlere yol arkadaşı olmak.
+
+## Sosyal bağlantılar
+
+[Instagram](https://instagram.com/kodlabirader) •  
+[YouTube](https://youtube.com/@kodlabirader) •  
+[X (Twitter)](https://twitter.com/kodlabirader) •  
+[TikTok](https://tiktok.com/@kodlabirader)
+
+---
+
+**“Kod yaz, boz, öğren, anlat.”**  
+Yolda olanlara selam, vazgeçmeyenlere saygı.
+
+> *KodlaBirader bir proje değil, bir dönüşüm hikayesi.*
