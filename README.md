@@ -18,9 +18,9 @@ bir yandan da “Yalnız değilmişim ya” dedirtmek isteyenlere yol arkadaşı
 
 ## Sosyal bağlantılar
 
-[Instagram](https://instagram.com/kodlabirader) •  
-[YouTube](https://youtube.com/@kodlabirader) •  
-[X (Twitter)](https://twitter.com/kodlabirader) •  
+[Instagram](https://instagram.com/kodlabirader)  
+[YouTube](https://youtube.com/@kodlabirader)  
+[X (Twitter)](https://twitter.com/kodlabirader) 
 [TikTok](https://tiktok.com/@kodlabirader)
 
 ---
